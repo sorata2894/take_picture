@@ -1,0 +1,6 @@
+classes= 52
+train  = scripts/train.txt
+valid  = scripts/val.txt
+names = cfg/obj.names
+backup = backup/
+
